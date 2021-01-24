@@ -1,0 +1,2 @@
+﻿  OpenCV Test.cpp
+opencv_world451d.lib(opencv_world451d.dll) : fatal error LNK1112: 'x64' 모듈 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
